@@ -42,3 +42,4 @@ end
 gem 'pry-rails'
 
 gem 'mechanize'
+gem 'devise'
